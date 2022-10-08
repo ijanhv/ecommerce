@@ -416,10 +416,11 @@ padding: 30px 65px;
 }
 .product-detail-container{
   display: flex;
- gap: 40px;
- margin: 40px;
- margin-top: 60px;
- color: #324d67;
+  justify-content: center;
+  gap: 40px;
+  margin: 40px;
+  margin-top: 60px;
+  color: #324d67;
 
 }
 
