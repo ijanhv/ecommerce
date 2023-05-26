@@ -9,6 +9,12 @@ npm run dev
 # or
 yarn dev
 ```
+## Screenshots
+![image](https://github.com/ijanhv/ecommerce/assets/90978757/1b0d6775-11d0-44c5-a80f-a19b27d9060f)
+![image](https://github.com/ijanhv/ecommerce/assets/90978757/937366df-4d8c-4c48-b67e-367d2c28810c)
+![image](https://github.com/ijanhv/ecommerce/assets/90978757/499d746f-a443-4e18-b787-9d6ecdf4ead4)
+![image](https://github.com/ijanhv/ecommerce/assets/90978757/756774f3-d7fd-41e1-a0a2-d472d628edeb)
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
